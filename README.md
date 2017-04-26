@@ -143,22 +143,22 @@ These are the basic specs for Relational Databases, broken into 5 stages. If you
 
 Setup repo, complete a Khan Academy project, and install PostgreSQL. For instructions on installing PostgreSQL, see the guides in [Resources > Guides](#guides).
 
-- [ ] Artifact repo is created on GitHub.
-- [ ] The artifact repo is properly licensed, preferably with the [MIT license][mit-license].
-- [ ] Solution SQL for the Khan Academy project: [Design a store database][ka-proj-store-db] is added to a file in your repo named `store_db.sql`
-- [ ] SQL in `store_db.sql` has consistent indentation.
-- [ ] All the SQL keywords in `store_db.sql` are written in ALL CAPS.
-- [ ] PostgreSQL is installed on your computer with Homebrew.
+- [ x] Artifact repo is created on GitHub.
+- [x ] The artifact repo is properly licensed, preferably with the [MIT license][mit-license].
+- [ x] Solution SQL for the Khan Academy project: [Design a store database][ka-proj-store-db] is added to a file in your repo named `store_db.sql`
+- [ x] SQL in `store_db.sql` has consistent indentation.
+- [ x] All the SQL keywords in `store_db.sql` are written in ALL CAPS.
+- [x ] PostgreSQL is installed on your computer with Homebrew.
 
 #### Stage 2
 
 Complete another Khan Academy project, use the SQL Designer tool, and install the [Postico app][postico] (this is recommended, but not required).
 
-- [ ] Solution SQL for the Khan Academy project: [Data dig][ka-proj-data-dig] is added to a file in your repo named `data_dig.sql`
-- [ ] SQL in `data_dig.sql` has consistent indentation.
-- [ ] All the SQL keywords in `data_dig.sql` are written in ALL CAPS.
-- [ ] Schema diagrams are created for both the "Store database" and "Data dig" database using the [SQL Designer tool][sql-designer].
-- [ ] Screenshots of each schema diagram are added to repo as `store_db_schema.png` and `data_dig_schema.png`, respectively.
+- [ x] Solution SQL for the Khan Academy project: [Data dig][ka-proj-data-dig] is added to a file in your repo named `data_dig.sql`
+- [ x] SQL in `data_dig.sql` has consistent indentation.
+- [ x] All the SQL keywords in `data_dig.sql` are written in ALL CAPS.
+- [ x] Schema diagrams are created for both the "Store database" and "Data dig" database using the [SQL Designer tool][sql-designer].
+- [ x] Screenshots of each schema diagram are added to repo as `store_db_schema.png` and `data_dig_schema.png`, respectively.
 
 #### Stage 3
 
