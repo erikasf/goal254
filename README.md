@@ -164,35 +164,35 @@ Complete another Khan Academy project, use the SQL Designer tool, and install th
 
 Create schemas and mock data for the "Bike Shop" and "Music Player" apps from the Init 2 goal. Then run queries against them. Read the [Generating Mock Data](#generating-mock-data) section to learn how to generate fake data.
 
-- [ ] Folder `bike-shop/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Bike Shop from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `bike-shop/schema.sql`.
-- [ ] Bike Shop schema matches the specifications in [Table Schema for Bike Shop](#table-schema-for-bike-shop).
-- [ ] Folder `music-player/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Music Player from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `music-player/schema.sql`.
-- [ ] Music Player schema includes tables and appropriate columns for:
-  - [ ] Artists
-  - [ ] Albums
-  - [ ] Songs
-  - [ ] Playlists
-- [ ] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
-- [ ] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
-- [ ] Queries against the Music Player include at least one instance of the following SQL keywords:
-  - [ ] `WHERE`
-  - [ ] `LIMIT`
-  - [ ] `ORDER BY`
-  - [ ] `LIKE`
-  - [ ] `AND/OR`
-  - [ ] `HAVING`
-  - [ ] `IN`
-  - [ ] `JOIN`
+- [ x] Folder `bike-shop/` exists in your repo.
+- [ x] Database schema SQL (using PostgreSQL syntax) for the Bike Shop from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `bike-shop/schema.sql`.
+- [ x] Bike Shop schema matches the specifications in [Table Schema for Bike Shop](#table-schema-for-bike-shop).
+- [ x] Folder `music-player/` exists in your repo.
+- [ x] Database schema SQL (using PostgreSQL syntax) for the Music Player from [Init 2: OOP Practice with Bike Shop][bike-shop-oop] is included in the file `music-player/schema.sql`.
+- [ X] Music Player schema includes tables and appropriate columns for:
+  - [ X] Artists
+  - [ X] Albums
+  - [ X] Songs
+  - [ X] Playlists
+- [ X] Mock data is generated for the Music Player and added to the file `music-player/mock_data.sql`.
+- [ X] Sample queries against the Music Player database are added to the file `music-player/queries.sql`.
+- [ x] Queries against the Music Player include at least one instance of the following SQL keywords:
+  - [ x] `WHERE`
+  - [ x] `LIMIT`
+  - [ x] `ORDER BY`
+  - [x ] `LIKE`
+  - [x ] `AND/OR`
+  - [ x] `HAVING`
+  - [x ] `IN`
+  - [x ] `JOIN`
 
 #### Stage 4
 
 Complete the final Khan Academy project. Design and create schemas for the "Bossggle" and "Mmmarkdown" apps from the Init 1 and Init 3 goals.
 
-- [ ] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
-- [ ] SQL in `app_impersonator.sql` has consistent indentation.
-- [ ] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
+- [ x] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
+- [x ] SQL in `app_impersonator.sql` has consistent indentation.
+- [ x] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
 - [ ] Folder `bossggle/` exists in your repo.
 - [ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file `bossggle/schema.sql`.
 - [ ] Bossggle schema supports the following features (i.e. you _could_ write SQL to show this data):
@@ -216,11 +216,11 @@ Complete the final Khan Academy project. Design and create schemas for the "Boss
 
 Pick 2-3 real-world apps (for example: Twitter, Instagram, Google Drive, etc.) and design a sample database schema for each of them. Then generate some mock data and run queries against them. Your schemas don't have to be _exactly_ what these apps would use, but they should roughly approximate the basic features.
 
-- [ ] 2 or 3 real-world apps are chosen and folders are created for each of them.
-- [ ] For each real-world app chosen there exists:
-  - [ ] A SQL schema in the file `<app name>/schema.sql`.
-  - [ ] A set of mock data `INSERT` statements in the file `<app name>/mock_data.sql`.
-  - [ ] A set of example queries in the file `<app name>/queries.sql`.
+- [ x] 2 or 3 real-world apps are chosen and folders are created for each of them.
+- [ x] For each real-world app chosen there exists:
+  - [ x] A SQL schema in the file `<app name>/schema.sql`.
+  - [ x] A set of mock data `INSERT` statements in the file `<app name>/mock_data.sql`.
+  - [ x] A set of example queries in the file `<app name>/queries.sql`.
 - [ ] Queries against the real-world apps include at least one instance of the following SQL keywords:
   - [ ] `INSERT`
   - [ ] `UPDATE`
@@ -229,8 +229,8 @@ Pick 2-3 real-world apps (for example: Twitter, Instagram, Google Drive, etc.) a
   - [ ] `LIMIT`
   - [ ] `ORDER BY`
   - [ ] `JOIN`
-- [ ] SQL in all real-world app SQL files have consistent indentation.
-- [ ] All the SQL keywords all real-world app SQL files are written in ALL CAPS.
+- [ x] SQL in all real-world app SQL files have consistent indentation.
+- [ x] All the SQL keywords all real-world app SQL files are written in ALL CAPS.
 
 ### Table Schema for Bike Shop
 
