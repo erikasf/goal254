@@ -184,7 +184,7 @@ Create schemas and mock data for the "Bike Shop" and "Music Player" apps from th
   - [x ] `AND/OR`
   - [ x] `HAVING`
   - [x ] `IN`
-  - [x ] `JOIN`
+  - [ ] `JOIN`
 
 #### Stage 4
 
