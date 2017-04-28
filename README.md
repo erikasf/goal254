@@ -193,8 +193,8 @@ Complete the final Khan Academy project. Design and create schemas for the "Boss
 - [ x] Solution SQL for the Khan Academy project: [App impersonator][ka-proj-app-impersonator] is added to a file in your repo named `app_impersonator.sql`
 - [x ] SQL in `app_impersonator.sql` has consistent indentation.
 - [ x] All the SQL keywords in `app_impersonator.sql` are written in ALL CAPS.
-- [ ] Folder `bossggle/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file `bossggle/schema.sql`.
+- [ x] Folder `bossggle/` exists in your repo.
+- [ x] Database schema SQL (using PostgreSQL syntax) for the Bossggle game from [Init 1: Bossggle Word Game][bossggle-word-game] is included in the file `bossggle/schema.sql`.
 - [ ] Bossggle schema supports the following features (i.e. you _could_ write SQL to show this data):
   - [ ] List all words guessed
   - [ ] Count all correct words guessed
@@ -202,15 +202,15 @@ Complete the final Khan Academy project. Design and create schemas for the "Boss
   - [ ] List all words guessed and their scores
   - [ ] Get sum of scores for all words guessed
   - [ ] Show 10 most recently guessed words
-- [ ] Folder `mmarkdown/` exists in your repo.
-- [ ] Database schema SQL (using PostgreSQL syntax) for the Mmmarkdown app from [Init 3: Hello Web Servers][hello-web-servers] is included in the file `mmarkdown/schema.sql`.
-- [ ] Mmmarkdown schema supports the following features (i.e. you _could_ write SQL to show this data):
-  - [ ] List all files
-  - [ ] List all files ordered by their latest edit time (most recent first)
-  - [ ] Show file with particular name
-  - [ ] Get text content of file with particular name
-  - [ ] List created date of all files
-  - [ ] List every file name and its word count
+- [ x] Folder `mmarkdown/` exists in your repo.
+- [x ] Database schema SQL (using PostgreSQL syntax) for the Mmmarkdown app from [Init 3: Hello Web Servers][hello-web-servers] is included in the file `mmarkdown/schema.sql`.
+- [ x] Mmmarkdown schema supports the following features (i.e. you _could_ write SQL to show this data):
+  - [ x] List all files
+  - [ x] List all files ordered by their latest edit time (most recent first)
+  - [ x] Show file with particular name
+  - [ x] Get text content of file with particular name
+  - [ x] List created date of all files
+  - [ x] List every file name and its word count
 
 #### Stage 5
 
@@ -221,13 +221,13 @@ Pick 2-3 real-world apps (for example: Twitter, Instagram, Google Drive, etc.) a
   - [ x] A SQL schema in the file `<app name>/schema.sql`.
   - [ x] A set of mock data `INSERT` statements in the file `<app name>/mock_data.sql`.
   - [ x] A set of example queries in the file `<app name>/queries.sql`.
-- [ ] Queries against the real-world apps include at least one instance of the following SQL keywords:
-  - [ ] `INSERT`
-  - [ ] `UPDATE`
-  - [ ] `DELETE`
-  - [ ] `WHERE`
-  - [ ] `LIMIT`
-  - [ ] `ORDER BY`
+- [ x] Queries against the real-world apps include at least one instance of the following SQL keywords:
+  - [ x] `INSERT`
+  - [ x] `UPDATE`
+  - [x ] `DELETE`
+  - [ x] `WHERE`
+  - [ x] `LIMIT`
+  - [x ] `ORDER BY`
   - [ ] `JOIN`
 - [ x] SQL in all real-world app SQL files have consistent indentation.
 - [ x] All the SQL keywords all real-world app SQL files are written in ALL CAPS.
